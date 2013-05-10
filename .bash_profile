@@ -12,6 +12,9 @@ alias laxo="ls -laxo"
 alias h=history
 alias cls=clear
 
+alias push="pushd ." 
+alias pop=popd
+
 alias octave=exec\ '/Applications/Octave/Octave.app/Contents/Resources/bin/octave
 
 #set path for android commands.
