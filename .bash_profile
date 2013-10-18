@@ -7,7 +7,7 @@
 alias cd..="cd .."
 alias lp="ls -p"
 alias l="ls -la"
-alias laxo="ls -laxo"
+alias halo="ls -halo"
 
 alias h=history
 alias cls=clear
